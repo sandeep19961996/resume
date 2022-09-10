@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+/* font */
+.st-font{
+    font-family: 'Satisfy';
+}
+.tt-font{
+    font-family: 'Dancing Script';
+}
+.ff-font{
+    font-family: 'Tangerine';
+}
+html,body{
+    height:100%;
+    width: 100%;
+}
+.container-fuild{
+    min-height: 100%;
+    min-width: 100%;
+}
+
+
+/* services */
+
+.i-colo{
+    color: silver;
+}
+
+/* services Icon Color */
+
+.ss-color{
+    color: chartreuse;
+}
+a.nav-link{
+    color:whitesmoke;
+}
+a.nav-link:hover{
+    color:black;
+    background-color: #e9cd79;
+}
+a.nav-link.active{
+    color:black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
